@@ -1,1 +1,1 @@
-# Geared-Car-Game-GCG-
+# Geared-Car-Game-GCG
